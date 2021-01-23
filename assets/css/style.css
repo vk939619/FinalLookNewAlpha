@@ -6440,3 +6440,17 @@ button:focus {
 .navbar-light .side-nav .side-nav-left {
     color:white;
 }
+
+.extracontent {
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.our-work-img{
+    max-width:75% !important;
+}
+
+.form-img{
+    background: linear-gradient(to right, rgba(2, 21, 37, 0.8) 70%, transparent 100%, transparent 100%), url(/assets/img/contactus.jpg) center !important;
+}
